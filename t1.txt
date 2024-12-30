@@ -3,3 +3,5 @@ Log in
 log out
 
 Creating a function1
+
+crearting function 2

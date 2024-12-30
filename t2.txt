@@ -1,5 +1,9 @@
 Check new file for branching verification
 
+<<<<<<< HEAD
 Create a database
 
 Database closed
+=======
+Create a  SQL database
+>>>>>>> lite_version
